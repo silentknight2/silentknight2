@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @silentknight2
-- 👀 I’m interested in C
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C/C++, linux-device-driver, linux-kernel, embedded linux and OS
+- 🌱 I’m currently learning OS and linux-device-driver
+- 💞️ I’m looking to collaborate on embedded linux
+- 📫 How to reach me : gongbingscu@gail.com
 
 <!---
 silentknight2/silentknight2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
